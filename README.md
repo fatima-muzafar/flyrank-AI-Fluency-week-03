@@ -5,5 +5,5 @@ This repository contains my Week 3 assignments for the FlyRank Frontend AI Engin
 ## Assignments
 
 - Assignment 1 – Decide Once: Build Your Identity Kit ✅
-- Assignment 2 – Coming Soon ⏳
+- Assignment 2 – ill your darlings: Curate Your Images ✅
 - Assignment 3 – Coming Soon ⏳
